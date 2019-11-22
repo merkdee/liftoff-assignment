@@ -1,4 +1,4 @@
-# Project Outline
+# NFL Draft Evaluator
 For this assignment, you will submit a high-level outline of your project. This can, and likely will, change over time. In particular, your mentor will provide feedback and direction and feedback to help sharpen your ideas. So don't worry if you feel unsure about some aspects of the outline, or if you have to change some things later.
 
 ## Assignment Description
@@ -16,7 +16,7 @@ I decided to make this project because I love watching college football and then
 
 - User Sign up: Users will be able to create a new profile for themselves, allowing them to boost fan pride for their favorite team, it will show when they leave comments.
 - User Login: Users will be able to login after creating a profile. Passwords will be hopefully be  hashed, salted.
-- View Stats based on Performance metrics by : categories are - Passing, Rushing, Penalties, Game & Drives, Total Yards & Turnovers, Conversions, Rushing & Receiving, Kicking & Punting, Defense & Fumbles, Scoring Summary. Users will be able to see this view for their team and any other team. They may also view as a team overview or by each performance metric.
+- View Stats based on Performance metrics categories: Passing, Rushing, Penalties, Game & Drives, Total Yards & Turnovers, Conversions, Rushing & Receiving, Kicking & Punting, Defense & Fumbles, Scoring Summary. Users will be able to see this view for their team and any other team. They may also view as a team overview or by each performance metric.
 - View Performance metrics based on team: Users will be able to click on team 
 - ***same features available for Pro are available for NCAA 1A FBS
 
@@ -29,7 +29,6 @@ I decided to make this project because I love watching college football and then
 - Bootstrap 
 - Thymeleaf
 - MySQL
-- Dymanic/JasperReports
 - Social API
 - webscraping 
 
